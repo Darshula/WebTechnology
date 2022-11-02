@@ -1,0 +1,7 @@
+canvas {
+  transition: all 100ms ease-in-out;
+}
+
+div button {
+  width: fit-content;
+}
